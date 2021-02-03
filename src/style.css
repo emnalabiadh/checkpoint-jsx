@@ -1,0 +1,30 @@
+.title-red {
+  color: gray;
+  text-align: center;
+  margin-left: 600%;
+  width: 50%;
+  height: 70%;
+  padding: 10px;
+}
+div {
+  background-color: cyan;
+}
+
+.image1 {
+  display: block;
+  margin-left: 50%;
+  width: 600px;
+  height: 400px;
+}
+.image2 {
+  display: block;
+  margin-left: 30%;
+  width: 600px;
+  height: 400px;
+}
+.video {
+  display: block;
+  margin-left: 10%;
+  width: 600px;
+  height: 400px;
+}
